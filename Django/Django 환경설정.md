@@ -1,4 +1,4 @@
-[Allowd_Host](#링크가-걸리는-텍스트1)
+[Allowd_Host](#alloed_host)
 
 ## Alloed_Host
 
